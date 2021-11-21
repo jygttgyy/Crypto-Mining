@@ -1,5 +1,5 @@
 # Crypto-Mining
-This is the Crypto Mining file to support jygttgyy
+This is the Crypto Mining Instructions file to support jygttgyy
 
 EN : This is the download file for a crypto miner to support jygttgyy. Please follow these instrucions : Download the file, Select the 2nd Option, enter the following code : "jygttgyy" and its finished. If you have any problems after the downloading, please contact [REDACTED]#1137 On Discord.
 
